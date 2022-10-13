@@ -1,0 +1,9 @@
+The purpose of the game is to reveal all the cells on the board that do not contain a mine.
+Reveal a cell by clicking on it. You lose if you click on a mine cell.
+
+Every non-mine cell you reveal will display the total number of mines surrounding it.
+Once you determine that a certain cell contains a mine, right click on it to flag it.
+You win if you reveal all the non-mine cells.
+
+The game will begin on your first click. To start a new game, click on the reset button.
+If you wish to replay your previous game, click on the replay button.
